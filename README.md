@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xenbaloch
+- 👋 Hi, I’m Zain
 - 👀 I’m interested in Computational Photography
 - 🌱 I’m currently learning Digital Image Processing
 - 💞️ I’m looking to collaborate on Image Enhancement
