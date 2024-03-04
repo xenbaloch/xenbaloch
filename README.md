@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zain
-- 👀 I’m interested in Learning
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on low-light Image Enhancement Research
 - 📫 How to reach me xenbaloch@live.com
