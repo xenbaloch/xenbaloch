@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zain
-- 👀 I’m interested in Computational Photography
+- 👀 I’m interested in Learning
 - 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on Image Enhancement
+- 💞️ I’m looking to collaborate on low-light Image Enhancement Research
 - 📫 How to reach me xenbaloch@live.com
 
 <!---
