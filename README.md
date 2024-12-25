@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Zain
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on low-light Image Enhancement Research
-- 📫 How to reach me xenbaloch@live.com
+- 👋 Hi, I’m Zain!
+- 👀 I’m interested in image restoration & computational photography.
+- 🌱 I’m currently doing research in low-light vision domain.
+- 💞️ I’m looking to collaborate on low-light image enhancement research & projects
+- 📫 How to reach me xenbaloch@live.com; mzain@mail.dlut.edu.cn
 
 <!---
 xenbaloch/xenbaloch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
